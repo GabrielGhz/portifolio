@@ -146,11 +146,17 @@ body {
 
     .cabecalho_menu {
         justify-content: center;
+        gap: 25px;
+    }
+
+    .cabecalho_menu_link {
+        font-size: 16px;
     }
 
     .apresentacao {
         flex-direction: column-reverse;
-        padding: 10%
+        padding: 10%;
+        
     }
 
     .apresentacao_conteudo {
